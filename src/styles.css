@@ -1,0 +1,6 @@
+body { min-height: 100vh; background: var(--bs-body-bg); }
+.hero { background: linear-gradient(135deg, #0d6efd, #198754 55%, #062a58); }
+.match-list { max-height: 360px; overflow: auto; }
+iframe { border: 0; border-radius: 1rem; background: #111; }
+.card { border: 0; border-radius: 1rem; }
+textarea { min-height: 116px; }
